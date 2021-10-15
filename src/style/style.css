@@ -1,0 +1,23 @@
+img {
+    cursor: pointer;
+    width: 100%;
+}
+
+img:hover {
+    transform: scale(1.07);
+}
+
+a {
+    color: black;
+    white-space: nowrap;
+}
+
+a:hover {
+    color: blue;
+}
+
+.title-movies {
+    padding: 0 5px 0;
+    border-left: 10px solid blue;
+    border-radius: 5px;
+}
